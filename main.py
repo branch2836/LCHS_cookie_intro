@@ -6,7 +6,6 @@ app.config['DEBUG'] = True
 
 @app.route('/')
 def index():
-    cookie_name = 'oatmeal raisin'
     number = random.randint(1, 50)
 
     return render_template('index.html', number = number)
