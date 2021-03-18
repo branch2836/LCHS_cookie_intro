@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/Users/jimflores/Desktop/local_practice/flask-sessions/session-env/bin/python3"
+    "python.pythonPath": "/Users/jimflores/Desktop/local_practice/flask-sessions/session-env/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
