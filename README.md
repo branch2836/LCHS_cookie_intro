@@ -19,4 +19,4 @@ pip install Flask
 ```
 
 ## Note
-This repo is under development. When deployed, access the **Flask Cookies** page here: https://education.launchcode.org/lchs/chapters/sessions/managing-cookies.html.
+This textbook page is under development. When deployed, access the **Flask Cookies** page here: https://education.launchcode.org/lchs/chapters/sessions/managing-cookies.html.
