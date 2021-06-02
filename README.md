@@ -6,14 +6,14 @@ After cloning this repo, users will need to create a virtual environment, activa
 
 *Mac*
 ```
-python3 -m venv enviromnent_name
+python3 -m venv environment_name
 . environment_name/bin/activate
 pip3 install Flask
 ```
 
 *Windows (GitBash)*
 ```
-py -3 -m venv enviromnent_name
+py -3 -m venv environment_name
 . enviromnent_name/Scripts/activate
 pip install Flask
 ```
